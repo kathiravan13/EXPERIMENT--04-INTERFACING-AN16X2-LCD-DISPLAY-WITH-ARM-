@@ -202,9 +202,13 @@ Register no. : 212222230063
 
 
 ## Output screen shots of proteus  :
+
+ ![1111](https://user-images.githubusercontent.com/119831303/235294763-4046653b-a742-4f6d-8397-10d9190ca194.jpg)
+
  
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![555](https://user-images.githubusercontent.com/119831303/235294783-9810dd46-6ada-4206-878a-6af9eb8bd799.jpg)
  
  
 ## Result :
