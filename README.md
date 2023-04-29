@@ -199,17 +199,18 @@ int main(void)
 
 Programmed by: kathiravan.p
 Register no. : 212222230063
-
+```
 
 ## Output screen shots of proteus  :
 
  
-![1111](https://user-images.githubusercontent.com/119831303/235294906-76c6699c-7b97-44f9-8fbc-d146455ad114.jpg)
+
+![WhatsApp Image 2023-04-29 at 14 32 26](https://user-images.githubusercontent.com/119831303/235298127-5877830d-ca90-4be6-b9e1-0d9938f728d2.jpg)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
  
-![555](https://user-images.githubusercontent.com/119831303/235294783-9810dd46-6ada-4206-878a-6af9eb8bd799.jpg)
+ 
  
  
 ## Result :
